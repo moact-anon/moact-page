@@ -1,0 +1,482 @@
+[
+ {
+  "suite": "bridge",
+  "task": "PutCarrotOnPlateInScene",
+  "instruction": "put carrot on plate",
+  "meta": "",
+  "video": "static/videos/sim/widowx/PutCarrotOnPlateInScene_1180440b.mp4",
+  "poster": "static/videos/sim/widowx/PutCarrotOnPlateInScene_1180440b.jpg",
+  "case_id": "1180440b2f66c7b1831173e3-s0",
+  "frames": 74
+ },
+ {
+  "suite": "bridge",
+  "task": "PutCarrotOnPlateInScene",
+  "instruction": "put carrot on plate",
+  "meta": "",
+  "video": "static/videos/sim/widowx/PutCarrotOnPlateInScene_5301f309.mp4",
+  "poster": "static/videos/sim/widowx/PutCarrotOnPlateInScene_5301f309.jpg",
+  "case_id": "5301f309f4611f1c938c3cf9-s0",
+  "frames": 36
+ },
+ {
+  "suite": "bridge",
+  "task": "PutCarrotOnPlateInScene",
+  "instruction": "put carrot on plate",
+  "meta": "",
+  "video": "static/videos/sim/widowx/PutCarrotOnPlateInScene_5be84158.mp4",
+  "poster": "static/videos/sim/widowx/PutCarrotOnPlateInScene_5be84158.jpg",
+  "case_id": "5be841587c9309ba688e9a4d-s0",
+  "frames": 42
+ },
+ {
+  "suite": "bridge",
+  "task": "PutCarrotOnPlateInScene",
+  "instruction": "put carrot on plate",
+  "meta": "",
+  "video": "static/videos/sim/widowx/PutCarrotOnPlateInScene_5e023b34.mp4",
+  "poster": "static/videos/sim/widowx/PutCarrotOnPlateInScene_5e023b34.jpg",
+  "case_id": "5e023b346ca4e3448ee1db7a-s0",
+  "frames": 45
+ },
+ {
+  "suite": "bridge",
+  "task": "PutEggplantInBasketScene",
+  "instruction": "put eggplant into yellow basket",
+  "meta": "",
+  "video": "static/videos/sim/widowx/PutEggplantInBasketScene_1feb7022.mp4",
+  "poster": "static/videos/sim/widowx/PutEggplantInBasketScene_1feb7022.jpg",
+  "case_id": "1feb702250bb013536507cc2-s0",
+  "frames": 110
+ },
+ {
+  "suite": "bridge",
+  "task": "PutEggplantInBasketScene",
+  "instruction": "put eggplant into yellow basket",
+  "meta": "",
+  "video": "static/videos/sim/widowx/PutEggplantInBasketScene_2b36c1a3.mp4",
+  "poster": "static/videos/sim/widowx/PutEggplantInBasketScene_2b36c1a3.jpg",
+  "case_id": "2b36c1a35741b1d497f6d3de-s0",
+  "frames": 54
+ },
+ {
+  "suite": "bridge",
+  "task": "PutEggplantInBasketScene",
+  "instruction": "put eggplant into yellow basket",
+  "meta": "",
+  "video": "static/videos/sim/widowx/PutEggplantInBasketScene_2b9dc96f.mp4",
+  "poster": "static/videos/sim/widowx/PutEggplantInBasketScene_2b9dc96f.jpg",
+  "case_id": "2b9dc96f26fd30420677f6ad-s0",
+  "frames": 74
+ },
+ {
+  "suite": "bridge",
+  "task": "PutEggplantInBasketScene",
+  "instruction": "put eggplant into yellow basket",
+  "meta": "",
+  "video": "static/videos/sim/widowx/PutEggplantInBasketScene_3374776c.mp4",
+  "poster": "static/videos/sim/widowx/PutEggplantInBasketScene_3374776c.jpg",
+  "case_id": "3374776ce69258563ba39af8-s0",
+  "frames": 45
+ },
+ {
+  "suite": "bridge",
+  "task": "PutSpoonOnTableClothInScene",
+  "instruction": "put the spoon on the towel",
+  "meta": "",
+  "video": "static/videos/sim/widowx/PutSpoonOnTableClothInScene_0cbfc619.mp4",
+  "poster": "static/videos/sim/widowx/PutSpoonOnTableClothInScene_0cbfc619.jpg",
+  "case_id": "0cbfc619e779cbbead589bd2-s0",
+  "frames": 84
+ },
+ {
+  "suite": "bridge",
+  "task": "PutSpoonOnTableClothInScene",
+  "instruction": "put the spoon on the towel",
+  "meta": "",
+  "video": "static/videos/sim/widowx/PutSpoonOnTableClothInScene_1235c83a.mp4",
+  "poster": "static/videos/sim/widowx/PutSpoonOnTableClothInScene_1235c83a.jpg",
+  "case_id": "1235c83a85da6e5a8d8f7514-s0",
+  "frames": 41
+ },
+ {
+  "suite": "bridge",
+  "task": "PutSpoonOnTableClothInScene",
+  "instruction": "put the spoon on the towel",
+  "meta": "",
+  "video": "static/videos/sim/widowx/PutSpoonOnTableClothInScene_141de66e.mp4",
+  "poster": "static/videos/sim/widowx/PutSpoonOnTableClothInScene_141de66e.jpg",
+  "case_id": "141de66e221950f7a10ef8ba-s0",
+  "frames": 42
+ },
+ {
+  "suite": "bridge",
+  "task": "PutSpoonOnTableClothInScene",
+  "instruction": "put the spoon on the towel",
+  "meta": "",
+  "video": "static/videos/sim/widowx/PutSpoonOnTableClothInScene_2081d3bd.mp4",
+  "poster": "static/videos/sim/widowx/PutSpoonOnTableClothInScene_2081d3bd.jpg",
+  "case_id": "2081d3bd8f377b70c91f6b6f-s0",
+  "frames": 121
+ },
+ {
+  "suite": "bridge",
+  "task": "StackGreenCubeOnYellowCubeBakedTexInScene",
+  "instruction": "stack the green block on the yellow block",
+  "meta": "",
+  "video": "static/videos/sim/widowx/StackGreenCubeOnYellowCubeBakedTexInScene_3e326631.mp4",
+  "poster": "static/videos/sim/widowx/StackGreenCubeOnYellowCubeBakedTexInScene_3e326631.jpg",
+  "case_id": "3e3266310009bc3a6a83b26f-s0",
+  "frames": 121
+ },
+ {
+  "suite": "bridge",
+  "task": "StackGreenCubeOnYellowCubeBakedTexInScene",
+  "instruction": "stack the green block on the yellow block",
+  "meta": "",
+  "video": "static/videos/sim/widowx/StackGreenCubeOnYellowCubeBakedTexInScene_43e36ca6.mp4",
+  "poster": "static/videos/sim/widowx/StackGreenCubeOnYellowCubeBakedTexInScene_43e36ca6.jpg",
+  "case_id": "43e36ca6daaa8c1dec9c538d-s0",
+  "frames": 44
+ },
+ {
+  "suite": "bridge",
+  "task": "StackGreenCubeOnYellowCubeBakedTexInScene",
+  "instruction": "stack the green block on the yellow block",
+  "meta": "",
+  "video": "static/videos/sim/widowx/StackGreenCubeOnYellowCubeBakedTexInScene_452474f5.mp4",
+  "poster": "static/videos/sim/widowx/StackGreenCubeOnYellowCubeBakedTexInScene_452474f5.jpg",
+  "case_id": "452474f558ac7778d1f7ec45-s0",
+  "frames": 54
+ },
+ {
+  "suite": "bridge",
+  "task": "StackGreenCubeOnYellowCubeBakedTexInScene",
+  "instruction": "stack the green block on the yellow block",
+  "meta": "",
+  "video": "static/videos/sim/widowx/StackGreenCubeOnYellowCubeBakedTexInScene_5d12a9a5.mp4",
+  "poster": "static/videos/sim/widowx/StackGreenCubeOnYellowCubeBakedTexInScene_5d12a9a5.jpg",
+  "case_id": "5d12a9a529e2ed9e3851f7fc-s0",
+  "frames": 47
+ },
+ {
+  "suite": "variant_aggregation",
+  "task": "close_drawer",
+  "instruction": "close bottom drawer",
+  "meta": "bottom drawer, apartment",
+  "video": "static/videos/sim/google/close_drawer_4f1f91ff.mp4",
+  "poster": "static/videos/sim/google/close_drawer_4f1f91ff.jpg",
+  "case_id": "4f1f91ff298931751c043c80-s0",
+  "frames": 110
+ },
+ {
+  "suite": "variant_aggregation",
+  "task": "close_drawer",
+  "instruction": "close bottom drawer",
+  "meta": "bottom drawer, bedroom",
+  "video": "static/videos/sim/google/close_drawer_5325d471.mp4",
+  "poster": "static/videos/sim/google/close_drawer_5325d471.jpg",
+  "case_id": "5325d471eb3d1494060191c3-s0",
+  "frames": 72
+ },
+ {
+  "suite": "variant_aggregation",
+  "task": "close_drawer",
+  "instruction": "close bottom drawer",
+  "meta": "bottom drawer, office",
+  "video": "static/videos/sim/google/close_drawer_01636ca3.mp4",
+  "poster": "static/videos/sim/google/close_drawer_01636ca3.jpg",
+  "case_id": "01636ca3f639f285165d8397-s0",
+  "frames": 43
+ },
+ {
+  "suite": "variant_aggregation",
+  "task": "close_drawer",
+  "instruction": "close middle drawer",
+  "meta": "middle drawer, apartment",
+  "video": "static/videos/sim/google/close_drawer_0d2654ee.mp4",
+  "poster": "static/videos/sim/google/close_drawer_0d2654ee.jpg",
+  "case_id": "0d2654eef7f2567b264b09b7-s0",
+  "frames": 53
+ },
+ {
+  "suite": "variant_aggregation",
+  "task": "move_near",
+  "instruction": "move orange near pepsi can",
+  "meta": "alternative background",
+  "video": "static/videos/sim/google/move_near_012211d3.mp4",
+  "poster": "static/videos/sim/google/move_near_012211d3.jpg",
+  "case_id": "012211d314a8176ad3eab2b4-s0",
+  "frames": 37
+ },
+ {
+  "suite": "variant_aggregation",
+  "task": "move_near",
+  "instruction": "move blue plastic bottle near pepsi can",
+  "meta": "alternative background 2",
+  "video": "static/videos/sim/google/move_near_0cb7218a.mp4",
+  "poster": "static/videos/sim/google/move_near_0cb7218a.jpg",
+  "case_id": "0cb7218ae6e40b5f9e893178-s0",
+  "frames": 34
+ },
+ {
+  "suite": "variant_aggregation",
+  "task": "move_near",
+  "instruction": "move sponge near 7up can",
+  "meta": "base scene",
+  "video": "static/videos/sim/google/move_near_06d55eed.mp4",
+  "poster": "static/videos/sim/google/move_near_06d55eed.jpg",
+  "case_id": "06d55eede9bb5fcce17ca7ed-s0",
+  "frames": 30
+ },
+ {
+  "suite": "variant_aggregation",
+  "task": "move_near",
+  "instruction": "move 7up can near sponge",
+  "meta": "cabinet scene 1",
+  "video": "static/videos/sim/google/move_near_01e76156.mp4",
+  "poster": "static/videos/sim/google/move_near_01e76156.jpg",
+  "case_id": "01e761568cbc6df07ce7b0cb-s0",
+  "frames": 31
+ },
+ {
+  "suite": "variant_aggregation",
+  "task": "open_drawer",
+  "instruction": "open middle drawer",
+  "meta": "middle drawer, apartment",
+  "video": "static/videos/sim/google/open_drawer_9606b968.mp4",
+  "poster": "static/videos/sim/google/open_drawer_9606b968.jpg",
+  "case_id": "9606b9680ccfd844270adf61-s0",
+  "frames": 80
+ },
+ {
+  "suite": "variant_aggregation",
+  "task": "open_drawer",
+  "instruction": "open middle drawer",
+  "meta": "middle drawer, office",
+  "video": "static/videos/sim/google/open_drawer_4d63769e.mp4",
+  "poster": "static/videos/sim/google/open_drawer_4d63769e.jpg",
+  "case_id": "4d63769e54cdfb874ea35014-s0",
+  "frames": 43
+ },
+ {
+  "suite": "variant_aggregation",
+  "task": "open_drawer",
+  "instruction": "open top drawer",
+  "meta": "top drawer, apartment",
+  "video": "static/videos/sim/google/open_drawer_0113f9d9.mp4",
+  "poster": "static/videos/sim/google/open_drawer_0113f9d9.jpg",
+  "case_id": "0113f9d9a6f9734ce08991ab-s0",
+  "frames": 51
+ },
+ {
+  "suite": "variant_aggregation",
+  "task": "open_drawer",
+  "instruction": "open top drawer",
+  "meta": "top drawer, office",
+  "video": "static/videos/sim/google/open_drawer_e72d3f13.mp4",
+  "poster": "static/videos/sim/google/open_drawer_e72d3f13.jpg",
+  "case_id": "e72d3f1363b6cb7e93961f75-s0",
+  "frames": 52
+ },
+ {
+  "suite": "variant_aggregation",
+  "task": "pick_coke_can",
+  "instruction": "pick coke can",
+  "meta": "can laid horizontally, base scene",
+  "video": "static/videos/sim/google/pick_coke_can_0ad17cfb.mp4",
+  "poster": "static/videos/sim/google/pick_coke_can_0ad17cfb.jpg",
+  "case_id": "0ad17cfbaf67fb3bed690af9-s0",
+  "frames": 35
+ },
+ {
+  "suite": "variant_aggregation",
+  "task": "pick_coke_can",
+  "instruction": "pick coke can",
+  "meta": "can laid horizontally, cabinet scene 1",
+  "video": "static/videos/sim/google/pick_coke_can_0ddd6148.mp4",
+  "poster": "static/videos/sim/google/pick_coke_can_0ddd6148.jpg",
+  "case_id": "0ddd614835dc3f0e4748770f-s0",
+  "frames": 28
+ },
+ {
+  "suite": "variant_aggregation",
+  "task": "pick_coke_can",
+  "instruction": "pick coke can",
+  "meta": "can laid horizontally, cabinet scene 2",
+  "video": "static/videos/sim/google/pick_coke_can_039f32a3.mp4",
+  "poster": "static/videos/sim/google/pick_coke_can_039f32a3.jpg",
+  "case_id": "039f32a3ac04b22639738b6c-s0",
+  "frames": 33
+ },
+ {
+  "suite": "variant_aggregation",
+  "task": "pick_coke_can",
+  "instruction": "pick coke can",
+  "meta": "can laid vertically, alternative background",
+  "video": "static/videos/sim/google/pick_coke_can_04d5dff0.mp4",
+  "poster": "static/videos/sim/google/pick_coke_can_04d5dff0.jpg",
+  "case_id": "04d5dff0451111fc4eb1de60-s0",
+  "frames": 41
+ },
+ {
+  "suite": "visual_matching",
+  "task": "close_drawer",
+  "instruction": "close bottom drawer",
+  "meta": "bottom drawer, robot recolor 1",
+  "video": "static/videos/sim/google/close_drawer_f5a99528.mp4",
+  "poster": "static/videos/sim/google/close_drawer_f5a99528.jpg",
+  "case_id": "f5a99528e5071f95e4de10f1-s0",
+  "frames": 45
+ },
+ {
+  "suite": "visual_matching",
+  "task": "close_drawer",
+  "instruction": "close bottom drawer",
+  "meta": "bottom drawer, robot recolor 2",
+  "video": "static/videos/sim/google/close_drawer_7d2e6251.mp4",
+  "poster": "static/videos/sim/google/close_drawer_7d2e6251.jpg",
+  "case_id": "7d2e62515e7def76f8518c7d-s0",
+  "frames": 46
+ },
+ {
+  "suite": "visual_matching",
+  "task": "close_drawer",
+  "instruction": "close middle drawer",
+  "meta": "middle drawer, robot recolor 1",
+  "video": "static/videos/sim/google/close_drawer_979b8a33.mp4",
+  "poster": "static/videos/sim/google/close_drawer_979b8a33.jpg",
+  "case_id": "979b8a33fc3ece3c155ba366-s0",
+  "frames": 41
+ },
+ {
+  "suite": "visual_matching",
+  "task": "close_drawer",
+  "instruction": "close middle drawer",
+  "meta": "middle drawer, robot recolor 2",
+  "video": "static/videos/sim/google/close_drawer_57859fe5.mp4",
+  "poster": "static/videos/sim/google/close_drawer_57859fe5.jpg",
+  "case_id": "57859fe5b5d48339618174e6-s0",
+  "frames": 41
+ },
+ {
+  "suite": "visual_matching",
+  "task": "move_near",
+  "instruction": "move 7up can near blue plastic bottle",
+  "meta": "original robot appearance",
+  "video": "static/videos/sim/google/move_near_05eb39bb.mp4",
+  "poster": "static/videos/sim/google/move_near_05eb39bb.jpg",
+  "case_id": "05eb39bb3df5bc966b1c0537-s0",
+  "frames": 30
+ },
+ {
+  "suite": "visual_matching",
+  "task": "move_near",
+  "instruction": "move sponge near apple",
+  "meta": "robot appearance variant",
+  "video": "static/videos/sim/google/move_near_89c331ac.mp4",
+  "poster": "static/videos/sim/google/move_near_89c331ac.jpg",
+  "case_id": "89c331ac746d1ce84502c90a-s0",
+  "frames": 27
+ },
+ {
+  "suite": "visual_matching",
+  "task": "move_near",
+  "instruction": "move blue plastic bottle near pepsi can",
+  "meta": "robot recolor 1",
+  "video": "static/videos/sim/google/move_near_08b73799.mp4",
+  "poster": "static/videos/sim/google/move_near_08b73799.jpg",
+  "case_id": "08b73799e98aabfbc4d86394-s0",
+  "frames": 40
+ },
+ {
+  "suite": "visual_matching",
+  "task": "move_near",
+  "instruction": "move redbull can near coke can",
+  "meta": "robot recolor 2",
+  "video": "static/videos/sim/google/move_near_2d39d590.mp4",
+  "poster": "static/videos/sim/google/move_near_2d39d590.jpg",
+  "case_id": "2d39d590c057b8e7350264da-s0",
+  "frames": 33
+ },
+ {
+  "suite": "visual_matching",
+  "task": "open_drawer",
+  "instruction": "open bottom drawer",
+  "meta": "bottom drawer, robot recolor 1",
+  "video": "static/videos/sim/google/open_drawer_12e7ec45.mp4",
+  "poster": "static/videos/sim/google/open_drawer_12e7ec45.jpg",
+  "case_id": "12e7ec45f10dcf6cfc77a548-s0",
+  "frames": 54
+ },
+ {
+  "suite": "visual_matching",
+  "task": "open_drawer",
+  "instruction": "open middle drawer",
+  "meta": "middle drawer, robot recolor 1",
+  "video": "static/videos/sim/google/open_drawer_7276bbbf.mp4",
+  "poster": "static/videos/sim/google/open_drawer_7276bbbf.jpg",
+  "case_id": "7276bbbf94a04d3c2e7182fa-s0",
+  "frames": 77
+ },
+ {
+  "suite": "visual_matching",
+  "task": "open_drawer",
+  "instruction": "open middle drawer",
+  "meta": "middle drawer, robot recolor 2",
+  "video": "static/videos/sim/google/open_drawer_13221e87.mp4",
+  "poster": "static/videos/sim/google/open_drawer_13221e87.jpg",
+  "case_id": "13221e87966d8555293f7b50-s0",
+  "frames": 77
+ },
+ {
+  "suite": "visual_matching",
+  "task": "open_drawer",
+  "instruction": "open top drawer",
+  "meta": "top drawer, robot recolor 1",
+  "video": "static/videos/sim/google/open_drawer_4d3df52b.mp4",
+  "poster": "static/videos/sim/google/open_drawer_4d3df52b.jpg",
+  "case_id": "4d3df52b812adf3597419a0c-s0",
+  "frames": 60
+ },
+ {
+  "suite": "visual_matching",
+  "task": "pick_coke_can",
+  "instruction": "pick coke can",
+  "meta": "can laid horizontally, original robot appearance",
+  "video": "static/videos/sim/google/pick_coke_can_018f3fce.mp4",
+  "poster": "static/videos/sim/google/pick_coke_can_018f3fce.jpg",
+  "case_id": "018f3fce241403cbe098670c-s0",
+  "frames": 52
+ },
+ {
+  "suite": "visual_matching",
+  "task": "pick_coke_can",
+  "instruction": "pick coke can",
+  "meta": "can laid vertically, original robot appearance",
+  "video": "static/videos/sim/google/pick_coke_can_012ae714.mp4",
+  "poster": "static/videos/sim/google/pick_coke_can_012ae714.jpg",
+  "case_id": "012ae71475209e38e2f08be1-s0",
+  "frames": 32
+ },
+ {
+  "suite": "visual_matching",
+  "task": "pick_coke_can",
+  "instruction": "pick coke can",
+  "meta": "can standing upright, original robot appearance",
+  "video": "static/videos/sim/google/pick_coke_can_11dc02f5.mp4",
+  "poster": "static/videos/sim/google/pick_coke_can_11dc02f5.jpg",
+  "case_id": "11dc02f53f2bd750e93ac178-s0",
+  "frames": 30
+ },
+ {
+  "suite": "visual_matching",
+  "task": "pick_coke_can",
+  "instruction": "pick coke can",
+  "meta": "can laid horizontally, original robot appearance",
+  "video": "static/videos/sim/google/pick_coke_can_fdfa6723.mp4",
+  "poster": "static/videos/sim/google/pick_coke_can_fdfa6723.jpg",
+  "case_id": "fdfa6723d49e78c479d6c3cc-s0",
+  "frames": 23
+ }
+]
